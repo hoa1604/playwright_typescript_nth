@@ -1,0 +1,24 @@
+{
+  "editor.formatOnSave": true,
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/test-results": true,
+    "**/playwright-report": true,
+    "**/allure-results": true,
+    "**/allure-report": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/test-results": true,
+    "**/playwright-report": true,
+    "**/allure-results": true,
+    "**/allure-report": true
+  },
+  "[typescript]": {
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "editor.tabSize": 2
+  }
+}
